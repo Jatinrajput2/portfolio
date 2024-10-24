@@ -90,8 +90,13 @@ a{
     gap: 2rem;
 }
 
-.hero-section-section{
+.hero-section-heading{
     font-size: 35px;
     color: #343d68;
     font-weight: 500;
+}
+
+.role{
+    color: #4e45d5;
+    font-weight: 800;
 }
